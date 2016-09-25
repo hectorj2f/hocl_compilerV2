@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hocl/!svn/ver/396/branches/devel-PR2/src/fr/inria/hocl/tests/ho_rule04_test01
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/hocl/!svn/ver/396/branches/devel-PR2/src/fr/inria/hocl/tests/ho_rule04_test01/README.txt
+END
+ho_rule04_test01.hocl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/hocl/!svn/ver/396/branches/devel-PR2/src/fr/inria/hocl/tests/ho_rule04_test01/ho_rule04_test01.hocl
+END
+expectedResult.hocl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/hocl/!svn/ver/396/branches/devel-PR2/src/fr/inria/hocl/tests/ho_rule04_test01/expectedResult.hocl
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/tests/quadrature
+END
+quadrature.hocl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/tests/quadrature/quadrature.hocl
+END
+Trapezoid.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/tests/quadrature/Trapezoid.java
+END
+expectedResult.hocl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/tests/quadrature/expectedResult.hocl
+END

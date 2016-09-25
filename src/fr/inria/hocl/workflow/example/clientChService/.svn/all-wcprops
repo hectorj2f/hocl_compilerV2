@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hocl/!svn/ver/460/branches/devel-PR2/src/fr/inria/hocl/workflow/example/clientChService
+END
+run-clientChService.sh
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hocl/!svn/ver/460/branches/devel-PR2/src/fr/inria/hocl/workflow/example/clientChService/run-clientChService.sh
+END
+PassInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/hocl/!svn/ver/460/branches/devel-PR2/src/fr/inria/hocl/workflow/example/clientChService/PassInfo.java
+END
+Reset.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/hocl/!svn/ver/460/branches/devel-PR2/src/fr/inria/hocl/workflow/example/clientChService/Reset.java
+END
+RunClientChService_gen.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/hocl/!svn/ver/460/branches/devel-PR2/src/fr/inria/hocl/workflow/example/clientChService/RunClientChService_gen.java
+END
+StartExecDiscriminator.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/hocl/!svn/ver/460/branches/devel-PR2/src/fr/inria/hocl/workflow/example/clientChService/StartExecDiscriminator.java
+END
+clientChService.hocl
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/hocl/!svn/ver/396/branches/devel-PR2/src/fr/inria/hocl/workflow/example/clientChService/clientChService.hocl
+END
+ClientChService_gen.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/hocl/!svn/ver/460/branches/devel-PR2/src/fr/inria/hocl/workflow/example/clientChService/ClientChService_gen.java
+END
+ClientChServiceClt.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/hocl/!svn/ver/460/branches/devel-PR2/src/fr/inria/hocl/workflow/example/clientChService/ClientChServiceClt.java
+END
+ClientChServiceSrv.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/hocl/!svn/ver/460/branches/devel-PR2/src/fr/inria/hocl/workflow/example/clientChService/ClientChServiceSrv.java
+END

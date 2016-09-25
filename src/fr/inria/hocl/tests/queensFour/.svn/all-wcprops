@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/tests/queensFour
+END
+Queens.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/tests/queensFour/Queens.java
+END
+expectedResult.hocl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/tests/queensFour/expectedResult.hocl
+END
+queensFour.hocl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/tests/queensFour/queensFour.hocl
+END

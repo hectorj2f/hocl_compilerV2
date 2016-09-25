@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/tests/jokers2
+END
+expectedResult.hocl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/tests/jokers2/expectedResult.hocl
+END
+jokers2.hocl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/tests/jokers2/jokers2.hocl
+END

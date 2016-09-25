@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/tests/smallerThanInt
+END
+smallerThanInt.hocl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/tests/smallerThanInt/smallerThanInt.hocl
+END
+expectedResult.hocl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/tests/smallerThanInt/expectedResult.hocl
+END

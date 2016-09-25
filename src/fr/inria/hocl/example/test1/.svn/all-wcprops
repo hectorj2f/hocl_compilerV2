@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/example/test1
+END
+.directory
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/example/test1/.directory
+END
+test1.hocl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/example/test1/test1.hocl
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/tests/maxPrime
+END
+maxPrime.hocl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/tests/maxPrime/maxPrime.hocl
+END
+expectedResult.hocl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/tests/maxPrime/expectedResult.hocl
+END

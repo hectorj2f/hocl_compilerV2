@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/tests/msetPartition
+END
+expectedResult.hocl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/tests/msetPartition/expectedResult.hocl
+END
+msetPartition.hocl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/tests/msetPartition/msetPartition.hocl
+END

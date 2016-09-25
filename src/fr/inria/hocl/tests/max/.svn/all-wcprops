@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/tests/max
+END
+expectedResult.hocl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/tests/max/expectedResult.hocl
+END
+max.hocl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/tests/max/max.hocl
+END

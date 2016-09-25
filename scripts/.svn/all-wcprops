@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/hocl/!svn/ver/397/branches/devel-PR2/scripts
+END
+hoclcompile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/hocl/!svn/ver/397/branches/devel-PR2/scripts/hoclcompile
+END
+install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/hocl/!svn/ver/395/branches/devel-PR2/scripts/install.sh
+END
+hoclrun
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/hocl/!svn/ver/395/branches/devel-PR2/scripts/hoclrun
+END

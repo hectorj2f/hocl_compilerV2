@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/tests/gcdEuclide
+END
+gcdEuclide.hocl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/tests/gcdEuclide/gcdEuclide.hocl
+END
+expectedResult.hocl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/tests/gcdEuclide/expectedResult.hocl
+END

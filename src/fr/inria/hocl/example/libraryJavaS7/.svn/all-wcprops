@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/example/libraryJavaS7
+END
+Student.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/example/libraryJavaS7/Student.java
+END
+Book.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/example/libraryJavaS7/Book.java
+END
+expectedResult.hocl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/example/libraryJavaS7/expectedResult.hocl
+END
+libraryJavaS7.hocl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/example/libraryJavaS7/libraryJavaS7.hocl
+END
+Record.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/example/libraryJavaS7/Record.java
+END

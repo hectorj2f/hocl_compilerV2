@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/hocl/!svn/ver/460/branches/devel-PR2/src/fr/inria/hocl/workflow/example/sampleChService1
+END
+SampleChService1Clt.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/hocl/!svn/ver/460/branches/devel-PR2/src/fr/inria/hocl/workflow/example/sampleChService1/SampleChService1Clt.java
+END
+PassInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/hocl/!svn/ver/460/branches/devel-PR2/src/fr/inria/hocl/workflow/example/sampleChService1/PassInfo.java
+END
+sampleChService1.hocl
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hocl/!svn/ver/396/branches/devel-PR2/src/fr/inria/hocl/workflow/example/sampleChService1/sampleChService1.hocl
+END
+SampleChService1_gen.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/hocl/!svn/ver/460/branches/devel-PR2/src/fr/inria/hocl/workflow/example/sampleChService1/SampleChService1_gen.java
+END
+SampleChService1Srv.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/hocl/!svn/ver/460/branches/devel-PR2/src/fr/inria/hocl/workflow/example/sampleChService1/SampleChService1Srv.java
+END
+run-sampleChService1.sh
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/hocl/!svn/ver/460/branches/devel-PR2/src/fr/inria/hocl/workflow/example/sampleChService1/run-sampleChService1.sh
+END
+RunSampleChService1_gen.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/hocl/!svn/ver/460/branches/devel-PR2/src/fr/inria/hocl/workflow/example/sampleChService1/RunSampleChService1_gen.java
+END
+PutResultInPass.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/hocl/!svn/ver/460/branches/devel-PR2/src/fr/inria/hocl/workflow/example/sampleChService1/PutResultInPass.java
+END

@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/hocl/!svn/ver/460/branches/devel-PR2/src/fr/inria/hocl/core/hoclc2j
+END
+External.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hocl/!svn/ver/396/branches/devel-PR2/src/fr/inria/hocl/core/hoclc2j/External.java
+END
+SolutionPat.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/core/hoclc2j/SolutionPat.java
+END
+BasicSolution.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/core/hoclc2j/BasicSolution.java
+END
+ReactionRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/hocl/!svn/ver/396/branches/devel-PR2/src/fr/inria/hocl/core/hoclc2j/ReactionRule.java
+END
+Access.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/core/hoclc2j/Access.java
+END
+VarDescExternal.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/core/hoclc2j/VarDescExternal.java
+END
+HoclParserTokenManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/core/hoclc2j/HoclParserTokenManager.java
+END
+ReactionRuleVar.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/core/hoclc2j/ReactionRuleVar.java
+END
+MoleculeVarPat.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hocl/!svn/ver/460/branches/devel-PR2/src/fr/inria/hocl/core/hoclc2j/MoleculeVarPat.java
+END
+MoleculeVar.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hocl/!svn/ver/396/branches/devel-PR2/src/fr/inria/hocl/core/hoclc2j/MoleculeVar.java
+END
+HoclParserConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/core/hoclc2j/HoclParserConstants.java
+END
+AtomPattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/core/hoclc2j/AtomPattern.java
+END
+ReactionRulePat.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/core/hoclc2j/ReactionRulePat.java
+END
+VarDescReactionRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/core/hoclc2j/VarDescReactionRule.java
+END
+ParseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/core/hoclc2j/ParseException.java
+END
+VarDescJoker.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/core/hoclc2j/VarDescJoker.java
+END
+TuplePat.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/core/hoclc2j/TuplePat.java
+END
+Solution.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/core/hoclc2j/Solution.java
+END
+PrimaryCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/core/hoclc2j/PrimaryCondition.java
+END
+Token.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/core/hoclc2j/Token.java
+END
+VarDesc.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/core/hoclc2j/VarDesc.java
+END
+BasicMolecule.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/hocl/!svn/ver/396/branches/devel-PR2/src/fr/inria/hocl/core/hoclc2j/BasicMolecule.java
+END
+SymbolsTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/core/hoclc2j/SymbolsTable.java
+END
+VarDescSolution.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/core/hoclc2j/VarDescSolution.java
+END
+hoclParser.jj
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/core/hoclc2j/hoclParser.jj
+END
+Pattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/core/hoclc2j/Pattern.java
+END
+VarDescTuple.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/core/hoclc2j/VarDescTuple.java
+END
+HoclParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hocl/!svn/ver/396/branches/devel-PR2/src/fr/inria/hocl/core/hoclc2j/HoclParser.java
+END
+AtomVarPat.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/core/hoclc2j/AtomVarPat.java
+END
+Hoclc2j.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hocl/!svn/ver/396/branches/devel-PR2/src/fr/inria/hocl/core/hoclc2j/Hoclc2j.java
+END
+SolutionWithRuleDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/core/hoclc2j/SolutionWithRuleDef.java
+END
+TokenMgrError.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/core/hoclc2j/TokenMgrError.java
+END
+Tuple.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/core/hoclc2j/Tuple.java
+END
+Molecule.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/core/hoclc2j/Molecule.java
+END
+Program.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hocl/!svn/ver/396/branches/devel-PR2/src/fr/inria/hocl/core/hoclc2j/Program.java
+END
+MoleculeWithRuleDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/core/hoclc2j/MoleculeWithRuleDef.java
+END
+Symbols.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/core/hoclc2j/Symbols.java
+END
+JavaCharStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/core/hoclc2j/JavaCharStream.java
+END
+LiteralPat.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/core/hoclc2j/LiteralPat.java
+END
+Debug.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/core/hoclc2j/Debug.java
+END
+ReactionCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/core/hoclc2j/ReactionCondition.java
+END
+Atom.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/core/hoclc2j/Atom.java
+END
+.directory
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/core/hoclc2j/.directory
+END

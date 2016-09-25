@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/tests/mailSystem1
+END
+mailSystem1.hocl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/tests/mailSystem1/mailSystem1.hocl
+END
+Message.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/tests/mailSystem1/Message.java
+END
+expectedResult.hocl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/tests/mailSystem1/expectedResult.hocl
+END

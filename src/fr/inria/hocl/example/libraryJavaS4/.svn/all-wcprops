@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/example/libraryJavaS4
+END
+libraryJavaS4.hocl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/example/libraryJavaS4/libraryJavaS4.hocl
+END
+Student.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/example/libraryJavaS4/Student.java
+END
+Book.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/example/libraryJavaS4/Book.java
+END
+expectedResult.hocl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/example/libraryJavaS4/expectedResult.hocl
+END

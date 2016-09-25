@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/tests/fibonacci
+END
+fibonacci.hocl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/tests/fibonacci/fibonacci.hocl
+END
+expectedResult.hocl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/tests/fibonacci/expectedResult.hocl
+END

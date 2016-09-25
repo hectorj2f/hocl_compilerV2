@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/tests/convexHull6
+END
+Point.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/tests/convexHull6/Point.java
+END
+expectedResult.hocl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/tests/convexHull6/expectedResult.hocl
+END
+convexHull6.hocl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/tests/convexHull6/convexHull6.hocl
+END

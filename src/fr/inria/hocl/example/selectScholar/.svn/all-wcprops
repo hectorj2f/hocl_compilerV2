@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/example/selectScholar
+END
+selectScholar.hocl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/example/selectScholar/selectScholar.hocl
+END
+expectedResult.hocl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/example/selectScholar/expectedResult.hocl
+END

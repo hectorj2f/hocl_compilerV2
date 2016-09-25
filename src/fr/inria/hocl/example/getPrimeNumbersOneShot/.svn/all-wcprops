@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/example/getPrimeNumbersOneShot
+END
+expectedResult.hocl
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/example/getPrimeNumbersOneShot/expectedResult.hocl
+END
+getPrimeNumbersOneShot.hocl
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/example/getPrimeNumbersOneShot/getPrimeNumbersOneShot.hocl
+END

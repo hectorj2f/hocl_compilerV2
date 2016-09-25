@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/hocl/!svn/ver/460/branches/devel-PR2/src/fr/inria/hocl/core/hocli
+END
+SolutionObserver.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hocl/!svn/ver/396/branches/devel-PR2/src/fr/inria/hocl/core/hocli/SolutionObserver.java
+END
+FileClassLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/core/hocli/FileClassLoader.java
+END
+IteratorForTuple.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/core/hocli/IteratorForTuple.java
+END
+StrategyUnFairRoundRobin.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/core/hocli/StrategyUnFairRoundRobin.java
+END
+ExternalObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/hocl/!svn/ver/460/branches/devel-PR2/src/fr/inria/hocl/core/hocli/ExternalObject.java
+END
+SimpleLinkedList.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/core/hocli/SimpleLinkedList.java
+END
+Tuple.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/hocl/!svn/ver/396/branches/devel-PR2/src/fr/inria/hocl/core/hocli/Tuple.java
+END
+StrategyKeepSmallSolution.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/core/hocli/StrategyKeepSmallSolution.java
+END
+IteratorForExternal.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/core/hocli/IteratorForExternal.java
+END
+Molecule.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hocl/!svn/ver/396/branches/devel-PR2/src/fr/inria/hocl/core/hocli/Molecule.java
+END
+Permutation.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hocl/!svn/ver/396/branches/devel-PR2/src/fr/inria/hocl/core/hocli/Permutation.java
+END
+ReactionRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hocl/!svn/ver/396/branches/devel-PR2/src/fr/inria/hocl/core/hocli/ReactionRule.java
+END
+Access.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/core/hocli/Access.java
+END
+PermutationNoRepeat.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/hocl/!svn/ver/396/branches/devel-PR2/src/fr/inria/hocl/core/hocli/PermutationNoRepeat.java
+END
+SimpleIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/hocl/!svn/ver/396/branches/devel-PR2/src/fr/inria/hocl/core/hocli/SimpleIterator.java
+END
+AtomIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/core/hocli/AtomIterator.java
+END
+Solution.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hocl/!svn/ver/396/branches/devel-PR2/src/fr/inria/hocl/core/hocli/Solution.java
+END
+Hocli.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/core/hocli/Hocli.java
+END
+SolutionState.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/core/hocli/SolutionState.java
+END
+IteratorForRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/core/hocli/IteratorForRule.java
+END
+StrategyRandom.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/core/hocli/StrategyRandom.java
+END
+MoleculeIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hocl/!svn/ver/396/branches/devel-PR2/src/fr/inria/hocl/core/hocli/MoleculeIterator.java
+END
+IteratorForSolution.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/core/hocli/IteratorForSolution.java
+END
+Strategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hocl/!svn/ver/396/branches/devel-PR2/src/fr/inria/hocl/core/hocli/Strategy.java
+END
+StrategyFairRoundRobin.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/core/hocli/StrategyFairRoundRobin.java
+END
+Debug.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/core/hocli/Debug.java
+END
+Atom.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hocl/!svn/ver/396/branches/devel-PR2/src/fr/inria/hocl/core/hocli/Atom.java
+END
+.directory
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/core/hocli/.directory
+END

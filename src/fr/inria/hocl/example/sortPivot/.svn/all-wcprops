@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/example/sortPivot
+END
+expectedResult.hocl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/example/sortPivot/expectedResult.hocl
+END
+sortPivot.hocl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hocl/!svn/ver/395/branches/devel-PR2/src/fr/inria/hocl/example/sortPivot/sortPivot.hocl
+END

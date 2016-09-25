@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/hocl/!svn/ver/396/branches/devel-PR2/src/fr/inria/hocl/core/hocli/rmi
+END
+IOSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hocl/!svn/ver/396/branches/devel-PR2/src/fr/inria/hocl/core/hocli/rmi/IOSender.java
+END
+GeneralSrvInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/hocl/!svn/ver/396/branches/devel-PR2/src/fr/inria/hocl/core/hocli/rmi/GeneralSrvInterface.java
+END
+GeneralCltInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/hocl/!svn/ver/396/branches/devel-PR2/src/fr/inria/hocl/core/hocli/rmi/GeneralCltInterface.java
+END

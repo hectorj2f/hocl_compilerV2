@@ -1,0 +1,199 @@
+10
+
+dir
+471
+https://scm.gforge.inria.fr/svn/hocl/branches/devel-PR2/src/fr/inria/hocl/tests
+https://scm.gforge.inria.fr/svn/hocl
+
+
+
+2011-04-05T14:24:52.916894Z
+461
+hector
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+ecd7f0a1-651f-4a7a-b1bf-769a232233e8
+
+HigherOrderDemo
+dir
+
+arithMean
+dir
+
+cardinal
+dir
+
+convexHull6
+dir
+
+crossProduct
+dir
+
+diningPhilo
+dir
+
+dotProduct
+dir
+
+dutchNationalFlag
+dir
+
+factorial
+dir
+
+factorization
+dir
+
+factorization2
+dir
+
+fibonacci
+dir
+
+flatTuple
+dir
+
+gcdEuclide
+dir
+
+graphConnectivity
+dir
+
+graphMinSpanTree
+dir
+
+graphShortestPath
+dir
+
+ho_rule01_test01
+dir
+
+ho_rule01_test02
+dir
+
+ho_rule01_test03
+dir
+
+ho_rule01_test04
+dir
+
+ho_rule01_test05
+dir
+
+ho_rule02_test01
+dir
+
+ho_rule02_test02
+dir
+
+ho_rule02_test03
+dir
+
+ho_rule02_test04
+dir
+
+ho_rule02_test05
+dir
+
+ho_rule03_test01
+dir
+
+ho_rule03_test02
+dir
+
+ho_rule04_test01
+dir
+
+jokers1
+dir
+
+jokers2
+dir
+
+jokers3
+dir
+
+jokers4
+dir
+
+largerThan
+dir
+
+lup
+dir
+
+mailSystem1
+dir
+
+mailSystem2
+dir
+
+majorityElt
+dir
+
+max
+dir
+
+maxPrime
+dir
+
+msetPartition
+dir
+
+multipleParams
+dir
+
+primes10_iotaInv
+dir
+
+primesDecr
+dir
+
+primesIncr
+dir
+
+quadrature
+dir
+
+queensEight
+dir
+
+queensFour
+dir
+
+resourceAlloc
+dir
+
+sat
+dir
+
+smallerThanInt
+dir
+
+sortPivot
+dir
+
+swapSort
+dir
+
+telegram
+dir
+
+toSet
+dir
+
+vo
+dir
+

@@ -1,0 +1,88 @@
+10
+
+dir
+471
+https://scm.gforge.inria.fr/svn/hocl/branches/devel-PR2/src/fr/inria/hocl/example
+https://scm.gforge.inria.fr/svn/hocl
+
+
+
+2011-01-21T16:23:32.570183Z
+396
+hector
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+ecd7f0a1-651f-4a7a-b1bf-769a232233e8
+
+DistributedSender
+dir
+
+GetMaxNumber
+dir
+
+HigherOrderDemo
+dir
+
+PassRuleReceiver
+dir
+
+PassRuleSender
+dir
+
+demoInteraction
+dir
+
+extractMaxNumber
+dir
+
+getPrimeNumbers
+dir
+
+getPrimeNumbersOneShot
+dir
+
+library
+dir
+
+libraryJavaS2
+dir
+
+libraryJavaS3
+dir
+
+libraryJavaS4
+dir
+
+libraryJavaS5
+dir
+
+libraryJavaS6
+dir
+
+libraryJavaS7
+dir
+
+selectScholar
+dir
+
+sortPivot
+dir
+
+test
+dir
+
+test1
+dir
+
